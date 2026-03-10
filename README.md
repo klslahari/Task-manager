@@ -9,6 +9,6 @@ FEATURES:
 - Tasks are saved using browser localStorage
 - Displays total number of tasks
 TECHNOLOGIES USED:
--HTML  
--CSS  
--JavaScript
+ -HTML  
+ -CSS  
+ -JavaScript
